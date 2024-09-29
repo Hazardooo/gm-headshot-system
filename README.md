@@ -52,5 +52,3 @@ The addon can be fully customized by adding the following ConVars to your server
 ---
 
 Uploaded with [gmpublisher](https://github.com/WilliamVenner/gmpublisher)
-
----
