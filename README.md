@@ -54,5 +54,3 @@ The addon can be fully customized by adding the following ConVars to your server
 Uploaded with [gmpublisher](https://github.com/WilliamVenner/gmpublisher)
 
 ---
-
-This format should be clean and structured for GitHub, making it easier to understand and navigate for users.
